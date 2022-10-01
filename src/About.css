@@ -1,0 +1,18 @@
+.story{
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+}
+.about{
+    font-family: 'Poiret One', cursive;
+}
+
+.colOne{
+    text-align:justify;
+    
+    margin: 20px 10px;
+}
+.colTwo{
+    display: flex;
+    justify-content: center;
+    margin:20px 10px;
+}

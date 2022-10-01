@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Eyeliner",
+      "image": "https://images.unsplash.com/photo-1631214524020-7e18db9a8f92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2874&q=80",
+      "price": "10",
+      "color": "Black",
+      "description": "Waterproof. Smudgeproof. Get all day wear with this easy to apply, felt tip eyeliner pen. Goes on smooth and dries to a beautiful matte finish."
+    },
+    {
+      "id": 2,
+      "productName": "Mascara",
+      "image": "https://images.unsplash.com/photo-1631214540553-ff044a3ff1d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2874&q=80",
+      "price": "12",
+      "color": "Black",
+      "description": "Get the boldest lashes with the best mascara around. Both lengethening and volumizing with no flaking."
+    },
+    {
+      "id": 3,
+      "productName": "Eyeshadow Palette",
+      "image": "https://images.unsplash.com/photo-1523432149071-adace963c5e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "price": "25",
+      "color": "Neutral",
+      "description": "All the colors you need for a simple, everyday eye look."
+    },
+    {
+      "id": 4,
+      "productName": "Highlighter",
+      "image": "https://images.unsplash.com/photo-1547887538-047f814bfb64?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "price": "15",
+      "color": "Gilded",
+      "description": "Get that glow from withing look with this luxuriously creamy highlighter."
+    },
+    {
+      "id": 5,
+      "productName": "Blush",
+      "image": "https://images.unsplash.com/photo-1537277033580-8792f1e42c47?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "price": "10",
+      "color": "Peachy Keen",
+      "description": "Liquid blush is the way to go for that soft, pretty blush on the cheeks. Easy to blend and buildable."
+    },
+    {
+      "id": 6,
+      "productName": "Lipstick",
+      "image": "https://images.unsplash.com/photo-1591375372156-542495912da9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODZ8fGxpcHN0aWNrfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "price": "10",
+      "color": "Pink Pout",
+      "description": "Get the perfect hint of color with this delicate pink. Will add just enough color to brihten up the face and is easy to where everyday. All day wear. Transfer Proof"
+    }
+  ]
+}

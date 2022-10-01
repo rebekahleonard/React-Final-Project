@@ -1,0 +1,46 @@
+.brandName {
+    font-family: 'Ms Madi', cursive;
+    font-size: 30px;
+}
+.offCanvas{
+    display: flex;
+}
+.sort{
+    margin: 10pt;
+}
+.filter{
+    margin: 10pt;
+}
+.create{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 30px;
+    margin-top: 20px;
+    color: black;
+    font-weight: bolder;
+}
+.logo{
+    display: flex;
+    align-items: flex-end;
+}
+.title{
+    font-family: 'Poiret One', cursive;
+    font-weight: bolder;
+    text-align: center;
+}
+.img{
+    padding: 2pt;
+    margin: 10pt;
+    height: 25rem;
+    width: 20rem;
+    
+}
+.card{
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    justify-self: center;
+}

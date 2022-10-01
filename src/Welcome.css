@@ -1,0 +1,11 @@
+.welcome{
+    font-family: 'Poiret One', cursive;
+    font-weight: bolder;
+    text-align: center;
+}
+.cardBody{
+    text-align: center;
+}
+.cardImg{
+    height: 33rem;
+}
